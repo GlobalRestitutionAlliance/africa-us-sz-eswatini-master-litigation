@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: eswatinian-restitution-roadmap-and-qsf-trust-execution
-  name: Eswatinian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/eswatinian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_sz_001
+    name: Eswatini Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_002
+    name: Eswatini Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_003
+    name: Eswatini Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_004
+    name: Eswatini Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_005
+    name: Eswatini Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_006
+    name: Eswatini Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_007
+    name: Eswatini Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_008
+    name: Eswatini Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_009
+    name: Eswatini Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_010
+    name: Eswatini Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_011
+    name: Eswatini Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_012
+    name: Eswatini Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_013
+    name: Eswatini Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_014
+    name: Eswatini Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_015
+    name: Eswatini Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_016
+    name: Eswatini Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_017
+    name: Eswatini Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_018
+    name: Eswatini Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_019
+    name: Eswatini Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_020
+    name: Eswatini Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_021
+    name: Eswatini Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_022
+    name: Eswatini Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_023
+    name: Eswatini Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_024
+    name: Eswatini Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_025
+    name: Eswatini Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_026
+    name: Eswatini Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_027
+    name: Eswatini Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_028
+    name: Eswatini Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_029
+    name: Eswatini Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_030
+    name: Eswatini Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_031
+    name: Eswatini Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_032
+    name: Eswatini Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_033
+    name: Eswatini Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_034
+    name: Eswatini Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_035
+    name: Eswatini Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_036
+    name: Eswatini Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_037
+    name: Eswatini Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_038
+    name: Eswatini Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_039
+    name: Eswatini Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_040
+    name: Eswatini Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_041
+    name: Eswatini Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_042
+    name: Eswatini Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_043
+    name: Eswatini Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_044
+    name: Eswatini Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_045
+    name: Eswatini Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_046
+    name: Eswatini Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_047
+    name: Eswatini Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_048
+    name: Eswatini Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_049
+    name: Eswatini Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_050
+    name: Eswatini Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_051
+    name: Eswatini Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_052
+    name: Eswatini Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_053
+    name: Eswatini Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_054
+    name: Eswatini Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_055
+    name: Eswatini Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_056
+    name: Eswatini Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_057
+    name: Eswatini Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_058
+    name: Eswatini Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_059
+    name: Eswatini Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_060
+    name: Eswatini Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_061
+    name: Eswatini Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_062
+    name: Eswatini Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_063
+    name: Eswatini Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_064
+    name: Eswatini Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_065
+    name: Eswatini Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_066
+    name: Eswatini Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_067
+    name: Eswatini Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_068
+    name: Eswatini Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_069
+    name: Eswatini Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_070
+    name: Eswatini Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_071
+    name: Eswatini Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_072
+    name: Eswatini Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_073
+    name: Eswatini Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_074
+    name: Eswatini Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_075
+    name: Eswatini Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_076
+    name: Eswatini Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_077
+    name: Eswatini Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_078
+    name: Eswatini Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_079
+    name: Eswatini Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_080
+    name: Eswatini Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_081
+    name: Eswatini Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_082
+    name: Eswatini Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_083
+    name: Eswatini Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_084
+    name: Eswatini Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_085
+    name: Eswatini Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_086
+    name: Eswatini Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_087
+    name: Eswatini Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_088
+    name: Eswatini Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_089
+    name: Eswatini Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_090
+    name: Eswatini Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_091
+    name: Eswatini Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_092
+    name: Eswatini Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_093
+    name: Eswatini Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_094
+    name: Eswatini Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_095
+    name: Eswatini Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_096
+    name: Eswatini Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_097
+    name: Eswatini Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_098
+    name: Eswatini Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_099
+    name: Eswatini Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_100
+    name: Eswatini Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_101
+    name: Eswatini Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_102
+    name: Eswatini Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_103
+    name: Eswatini Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_104
+    name: Eswatini Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_105
+    name: Eswatini Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_106
+    name: Eswatini Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_107
+    name: Eswatini Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_108
+    name: Eswatini Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_109
+    name: Eswatini Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_110
+    name: Eswatini Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_111
+    name: Eswatini Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_112
+    name: Eswatini Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_113
+    name: Eswatini Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_114
+    name: Eswatini Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_115
+    name: Eswatini Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_116
+    name: Eswatini Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_117
+    name: Eswatini Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_118
+    name: Eswatini Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_119
+    name: Eswatini Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_120
+    name: Eswatini Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_121
+    name: Eswatini Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_122
+    name: Eswatini Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_123
+    name: Eswatini Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_124
+    name: Eswatini Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_125
+    name: Eswatini Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_126
+    name: Eswatini Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_127
+    name: Eswatini Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_128
+    name: Eswatini Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_129
+    name: Eswatini Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_130
+    name: Eswatini Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_131
+    name: Eswatini Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_132
+    name: Eswatini Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_133
+    name: Eswatini Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_134
+    name: Eswatini Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_135
+    name: Eswatini Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_136
+    name: Eswatini Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_137
+    name: Eswatini Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_138
+    name: Eswatini Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_139
+    name: Eswatini Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_140
+    name: Eswatini Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_141
+    name: Eswatini Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_142
+    name: Eswatini Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_143
+    name: Eswatini Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_144
+    name: Eswatini Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_145
+    name: Eswatini Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_146
+    name: Eswatini Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_147
+    name: Eswatini Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_148
+    name: Eswatini Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_149
+    name: Eswatini Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_150
+    name: Eswatini Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_151
+    name: Eswatini Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_152
+    name: Eswatini Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_153
+    name: Eswatini Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_154
+    name: Eswatini Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_155
+    name: Eswatini Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_156
+    name: Eswatini Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_157
+    name: Eswatini Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_158
+    name: Eswatini Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_159
+    name: Eswatini Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_160
+    name: Eswatini Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_161
+    name: Eswatini Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_162
+    name: Eswatini Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_163
+    name: Eswatini Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_164
+    name: Eswatini Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_165
+    name: Eswatini Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_166
+    name: Eswatini Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_167
+    name: Eswatini Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_168
+    name: Eswatini Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_169
+    name: Eswatini Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_170
+    name: Eswatini Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_171
+    name: Eswatini Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_172
+    name: Eswatini Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_173
+    name: Eswatini Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_174
+    name: Eswatini Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_175
+    name: Eswatini Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_176
+    name: Eswatini Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_177
+    name: Eswatini Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_178
+    name: Eswatini Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_179
+    name: Eswatini Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_180
+    name: Eswatini Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_181
+    name: Eswatini Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_182
+    name: Eswatini Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_183
+    name: Eswatini Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_184
+    name: Eswatini Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_185
+    name: Eswatini Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_186
+    name: Eswatini Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_187
+    name: Eswatini Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_188
+    name: Eswatini Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_189
+    name: Eswatini Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_190
+    name: Eswatini Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_191
+    name: Eswatini Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_192
+    name: Eswatini Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_193
+    name: Eswatini Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_194
+    name: Eswatini Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_195
+    name: Eswatini Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_196
+    name: Eswatini Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_197
+    name: Eswatini Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_198
+    name: Eswatini Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_199
+    name: Eswatini Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_200
+    name: Eswatini Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_201
+    name: Eswatini Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_202
+    name: Eswatini Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_203
+    name: Eswatini Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_204
+    name: Eswatini Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_205
+    name: Eswatini Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_206
+    name: Eswatini Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_207
+    name: Eswatini Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_208
+    name: Eswatini Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_209
+    name: Eswatini Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_210
+    name: Eswatini Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_211
+    name: Eswatini Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_212
+    name: Eswatini Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_213
+    name: Eswatini Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_214
+    name: Eswatini Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_215
+    name: Eswatini Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_216
+    name: Eswatini Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_217
+    name: Eswatini Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_218
+    name: Eswatini Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_219
+    name: Eswatini Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_220
+    name: Eswatini Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_221
+    name: Eswatini Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_222
+    name: Eswatini Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_223
+    name: Eswatini Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_224
+    name: Eswatini Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_225
+    name: Eswatini Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_226
+    name: Eswatini Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_227
+    name: Eswatini Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_228
+    name: Eswatini Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_229
+    name: Eswatini Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_230
+    name: Eswatini Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_231
+    name: Eswatini Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_232
+    name: Eswatini Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_233
+    name: Eswatini Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_234
+    name: Eswatini Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_235
+    name: Eswatini Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_236
+    name: Eswatini Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_237
+    name: Eswatini Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_238
+    name: Eswatini Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_239
+    name: Eswatini Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_240
+    name: Eswatini Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_241
+    name: Eswatini Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_242
+    name: Eswatini Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_243
+    name: Eswatini Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_244
+    name: Eswatini Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_245
+    name: Eswatini Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_246
+    name: Eswatini Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_247
+    name: Eswatini Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_248
+    name: Eswatini Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_249
+    name: Eswatini Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_250
+    name: Eswatini Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_251
+    name: Eswatini Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sz_252
+    name: Eswatini Skill 252
+    status: ACTIVE_SCAFFOLD
