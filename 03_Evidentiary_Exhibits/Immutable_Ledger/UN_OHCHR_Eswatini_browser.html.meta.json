@@ -1,0 +1,16 @@
+{
+  "url": "https://www.ohchr.org/en/countries/eswatini",
+  "final_url": "https://www.ohchr.org/en/countries/eswatini",
+  "title": "UN OHCHR Eswatini",
+  "fetched_at": "2026-11-23T07:33:53.213525Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 80020,
+  "sha256": "d59cc00681a5532b1e4f5a1245bed33a2da9703399af7c7aad6504b551797137",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": true
+}
