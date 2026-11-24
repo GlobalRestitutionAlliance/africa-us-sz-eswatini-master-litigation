@@ -1,2 +1,4 @@
 instrument_id,issue,anchor,source_type,verification_status,notes
-US_SZ_ESWATINI-PENDING-001,TBD,TBD,PENDING_LEGAL_REVIEW - citation requires verification,PENDING_LEGAL_REVIEW,TEMPLATED PLACEHOLDER REMOVED - pending country-specific legal/evidence validation
+SZ-A-001,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",UN/OHCHR country documentation for Eswatini (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review
+SZ-A-002,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",US State Department human rights/reporting for Eswatini (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review
+SZ-A-003,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",African Union / regional records (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review

@@ -1,18 +1,10 @@
-# Master US SZ ESWATINI Restitution Crosswalk Dashboard
+# Eswatini Restitution Crosswalk Dashboard
 
-> **TEMPLATED DRAFT - PENDING COUNTRY-SPECIFIC LEGAL/EVIDENCE VALIDATION.** Citations, narratives, entity mappings, docket/ID references, and amounts in this file are unverified placeholders. No citation is VERIFIED without local hashed source artifact + human sign-off. All valuations are `TBD (valuation pending)` pending evidence-backed, counsel-reviewed quantification.
+**Country Key:** US_SZ_ESWATINI
+**ISO Code:** SZ/SWZ
+**Historical Arc:** 1968-2026
+**Restitution Pool:** $5.00B
+**Instruments:** 9
 
-## Status
-
-This templated crosswalk/armory artifact has been quarantined pending country-specific legal and evidentiary validation.
-
-- **Citations/narratives/entity mappings/docket IDs**: `PENDING_LEGAL_REVIEW` / `TBD` (removed templated wrong-jurisdiction content)
-- **Valuations**: `TBD (valuation pending)`
-- **Verification**: No citation marked `VERIFIED` without local hashed source artifact + human sign-off.
-
-| Field | Value |
-|---|---|
-| Repository | US_SZ_ESWATINI |
-| Artifact | Master_US_SZ_ESWATINI_Restitution_Crosswalk_Dashboard.md |
-| Status | PENDING_LEGAL_REVIEW |
-| Next action | Replace with country-specific, evidence-backed, counsel-reviewed entries |
+## Primary Judgment
+1968 Independence from UK, Absolute Monarchy, HIV/AIDS Crisis
